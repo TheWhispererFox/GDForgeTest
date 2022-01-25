@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MainMenuLevel
+  m_EditorClassIdentifier: 
+  m_GroupName: MainMenuLevel
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 814a76cdb3aa34447aff05eaabbed74f
+  m_SerializeEntries:
+  - m_GUID: b1c3625b88361434a8e62fefabb7c510
+    m_Address: Assets/Prefabs/UI/Card.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bef7918aa9fe6b945900f359d94f2071
+    m_Address: Assets/Prefabs/UI/MessageImage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a8c6d30acd2dd994aa72fe9dadcdbe9f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7e3df7686af811a45b137301c7edd34a, type: 2}
+    - {fileID: 11400000, guid: 129df349fe7790145b7a2214de713bf0, type: 2}
